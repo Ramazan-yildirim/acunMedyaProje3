@@ -2,3 +2,19 @@
       color: blue;
       font-size: 50px;
 }
+
+p {
+      font-size: 30px;
+}
+
+.pr1 {
+      color: black;
+}
+
+.pr2 {
+      color: rgb(255, 43, 174);
+}
+
+.pr3 {
+      color: rgb(53, 179, 39);
+}
